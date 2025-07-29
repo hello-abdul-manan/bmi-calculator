@@ -23,7 +23,7 @@ git clone https://github.com/hello-abdul-manan/bmi-calculator
 cd bmi-calculator/src
 
 # Step 3: Run the program
-python bmi_calculator.py
+python main.py
 ```
 
 ## Author  
